@@ -2,9 +2,11 @@
 
 <html>
 
+<div id="titlemain">
 <head>
 <title style:"font-family: Trebuchet MS">MVHS Homework App</title>
 </head>
+</div>
 
 <body>
 
