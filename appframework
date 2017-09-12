@@ -9,24 +9,24 @@
 <body>
 
 <div>
-<h1>Calendar</h1>
+<h1 style:"font-family: Trebuchet MS>Calendar</h1>
 </div>
 
 <div>
-<h1>School Events</h1>
+<h1 style:"font-family: Trebuchet MS>School Events</h1>
 </div>
 
 <div>
 
 <ul>
 
-<li>Monday</li>
-<li>Tuesday</li>
-<li>Wednesday</li>
-<li>Thursday</li>
-<li>Friday</li>
-<li>Saturday</li>
-<li>Sunday</li>
+<li style:"font-family: Bookman">Monday</li>
+<li style:"font-family: Bookman">Tuesday</li>
+<li style:"font-family: Bookman">Wednesday</li>
+<li style:"font-family: Bookman">Thursday</li>
+<li style:"font-family: Bookman">Friday</li>
+<li style:"font-family: Bookman">Saturday</li>
+<li style:"font-family: Bookman">Sunday</li>
 
 </ul>
 
